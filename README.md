@@ -3,10 +3,9 @@ Hello there! 👋
 I'm Muhammad Kaif Nathani, a passionate and driven Software Engineering student at NED University, set to graduate in 2027.
 
 - Skills Snapshot
-- Programming Languages:** Python, C++, C#, HTML, CSS, JavaScript.
-- Web Scraping:** Proficient in Beautiful Soup, Scrapy, and Selenium
-- Object-Oriented Programming (OOP):** Strong foundation
-- Machine Learning & Data Science:** Enthusiastic and knowledgeable
+- Programming Languages: Python, C++(OOP), C#(OOP), HTML, CSS, JavaScript.
+- Web Scraping: Proficient in Beautiful Soup, Scrapy, and Selenium
+- Machine Learning & Data Science: Enthusiastic and knowledgeable
 
 - Professional Journey
 I've immersed myself in various programming languages, honing my skills in Python, C++, C#, HTML, CSS, and JavaScript. My fascination with data led me to explore web scraping, adding another layer to my technical expertise.
