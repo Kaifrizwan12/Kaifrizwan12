@@ -2,14 +2,17 @@
 <h3 align="center">A passionate and driven Software Engineering student at NED University, set to graduate in 2027.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
+- 👋 Hi there! I'm Muhammad Kaif Nathani, a passionate and driven Software Engineering student at Ned University, set to graduate in 2027. 🌐
 
-- 🔭 I’m currently working on [Coworkig Space Application]
+- 💻 Skills Snapshot:
+Proficient in Python, C++, C#, and Web Scraping
+Strong foundation in Object-Oriented Programming (OOP)
+Currently cooking up full-stack Flutter apps 🍲📱
+Tinker with Node.js, build APIs, and store things in MongoDB
+Skilled in JavaScript, HTML, and CSS
 
-- 🌱 I’m currently learning **C++, C#, Node.js, React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kaifrizwan12/](https://github.com/Kaifrizwan12/)
-
-- 📫 How to reach me **kaifnathani@gmail.com**
+🤝 Let’s Connect!
+I’m always down to meet tech enthusiasts, mentors, or fellow devs building cool things with code. Let’s collab, innovate, or just geek out over future of tech 🌐💬
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://pub.dev/packages/get" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/jonataslaw/getx/main/getx.png" alt="getx" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/jonataslaw/getx/main/getx.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ho7xWMdD0VwPxQIgbQTh7TnurZoffpl3Uw&s" alt="getx" width="40" height="40"/>
   </a>
 
 </p>
